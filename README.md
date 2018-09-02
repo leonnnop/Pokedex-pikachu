@@ -23,7 +23,7 @@ Here are its specific functions:
 
 The whole project uses Xcode to develop the MVC architecture on the iOS platform, but in fact, this game does not require too much data storage, so there are only two structures of V/C from the code file structure. The game  is  divided  into  two  parts: speech recognition game and AR experience game. Because of the use of storyboard development, all simple scene jump or button control does not need to create an additional controller, so the number of existing controller is less than the number of scene. As part of view is easy to understand, Tools relies heavily on many  external libraries, so the following section will focus on 2 controllers for corresponding 2 game scenes.
 
-![image-20180903022008233](/Users/leonliang/Developer/Pokedex-pikachu/screenshots/2.png)
+![image-20180903022008233](./screenshots/2.png)
 
 **(1)**     **Speech Recognition Game Scene:**
 
@@ -90,7 +90,7 @@ TIPS ①The players should wake up the Pikachu first each time you want to give 
 
 **2.2.2**   **Home Scene**
 
-<i![image-20180903022230530](/Users/leonliang/Developer/Pokedex-pikachu/screenshots/4.png)mg src="screenshots/3.png" width="350px" />
+![image-20180903022230530](./screenshots/4.png)mg src="screenshots/3.png" width="350px" />
 
 ①Say any one of （“早上好啊”，“中午好啊”，“下午好啊” ,“晚上好啊”）to wake up the Pikachu.
 
@@ -112,7 +112,7 @@ TIPS ①The players should wake up the Pikachu first each time you want to give 
 
 **2.2.3**   **Park Scene**
 
-![image-20180903022305462](/Users/leonliang/Developer/Pokedex-pikachu/screenshots/5.png)
+![image-20180903022305462](./screenshots/5.png)
 
 ①Say any one of （“早上好啊”，“中午好啊”，“下午好啊” , “晚上好啊”）to wake up the Pikachu.
 
@@ -130,7 +130,7 @@ TIPS ①The players should wake up the Pikachu first each time you want to give 
 
 **2.2.4**   **Sea Scene**
 
-![image-20180903022329565](/Users/leonliang/Developer/Pokedex-pikachu/screenshots/6.png)
+![image-20180903022329565](./screenshots/6.png)
 
 ①Say any one of （“早上好啊”，“中午好啊”，“下午好啊” , “晚上好啊”）to wake up the Pikachu.
 
@@ -148,7 +148,7 @@ TIPS ①The players should wake up the Pikachu first each time you want to give 
 
 **2.2.5**   **Any door** 
 
-![image-20180903022400958](/Users/leonliang/Developer/Pokedex-pikachu/screenshots/7.png)
+![image-20180903022400958](./screenshots/7.png)
 
 The player uses the camera and moves the mobile phone to find a right plane. Then you can place an AR “any door”. The outside is the real world. The inside is the Mountain View and Pikachu. You can go into the door and feel the mountains around you or observe Pikachu closely.
 
